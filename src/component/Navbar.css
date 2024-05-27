@@ -1,0 +1,15 @@
+.nav-img{
+    
+}
+
+.nav-text{
+   color: wheat;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c76161;
+    box-shadow: 10px 10px 20px rgb(214, 97, 97);
+}
